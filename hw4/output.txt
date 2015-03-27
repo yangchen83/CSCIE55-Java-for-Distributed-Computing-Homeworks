@@ -1,0 +1,18 @@
+Finished after 21.627 seconds
+Runs: 9/9   Errors: 0   Failures: 0
+
+NO_LOCKING, 1 -- OK: 5734.048469 transactions/msec
+NO_LOCKING, 2 -- BROKEN: 7371.364102 transactions/msec	Expected total balances: 100000	Actual: 51020
+NO_LOCKING, 5 -- BROKEN: 5151.812455 transactions/msec	Expected total balances: 100000	Actual: 32173
+NO_LOCKING, 10 -- BROKEN: 3720.722094 transactions/msec	Expected total balances: 100000	Actual: 21058
+NO_LOCKING, 20 -- BROKEN: 3255.051493 transactions/msec	Expected total balances: 100000	Actual: 23555
+LOCK_BANK, 1 -- OK: 5465.907154 transactions/msec
+LOCK_BANK, 2 -- OK: 2569.173604 transactions/msec
+LOCK_BANK, 5 -- OK: 3058.834959 transactions/msec
+LOCK_BANK, 10 -- OK: 3023.405598 transactions/msec
+LOCK_BANK, 20 -- OK: 2962.137940 transactions/msec
+LOCK_ACCOUNTS, 1 -- OK: 4330.456847 transactions/msec
+LOCK_ACCOUNTS, 2 -- OK: 5712.696671 transactions/msec
+LOCK_ACCOUNTS, 5 -- OK: 5519.935333 transactions/msec
+LOCK_ACCOUNTS, 10 -- OK: 5818.363652 transactions/msec
+LOCK_ACCOUNTS, 20 -- OK: 5483.070864 transactions/msec

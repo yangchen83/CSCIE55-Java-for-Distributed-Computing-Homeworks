@@ -1,0 +1,7 @@
+Finished after 0.247 seconds
+Runs: 3/3  Errors: 0  Failures: 0
+
+cscie55.hw7.Tester [Runner: JUnit 4] (0.050s)
+testLinksByTags (0.004s)
+testLinksByTime (0.013s)
+testLinksByURL (0.033s)

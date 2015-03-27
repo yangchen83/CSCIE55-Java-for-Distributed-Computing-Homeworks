@@ -1,0 +1,10 @@
+Finished after 33.209 seconds
+Runs: 3/3   Errors: 0   Failures: 0
+
+cscie55.hw5.Tester [Runner: JUnit 4](33.052 s)
+. testSetup(0.000 s)
+. testCorrectness(2.444 s)
+. measurePerformanceOfCommandInsideAndOutsideMonitor(30.607 s)
+
+Command INSIDE monitor:  0.781178 txns/msec
+Command OUTSIDE monitor: 3.982097 txns/msec

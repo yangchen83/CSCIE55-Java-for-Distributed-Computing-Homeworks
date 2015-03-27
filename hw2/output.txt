@@ -1,0 +1,11 @@
+I used Eclipse for the homework
+
+The JUnit output is:
+
+Finished after 0.011 seconds
+Runs: 4/4  Errors: 0 Failures: 0
+
+The output in the console is:
+
+cscie55.hw2.ElevatorFullException: Elevator Full!
+

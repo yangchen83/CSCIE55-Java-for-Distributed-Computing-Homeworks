@@ -1,0 +1,7 @@
+Finished after 1.861 seconds
+Runs: 2/2   Errors: 0   Failures: 0
+
+cscie55.hw6.Tester [Runner: JUnit 4](1.817 s)
+. testSetup(0.338 s)
+. testCorrectness(1.478 s)
+
